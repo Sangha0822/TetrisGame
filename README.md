@@ -49,6 +49,10 @@ Here's the wiring diagram for setting up the hardware:
 ## Playing Tetris
 The video demonstrates the 
 
+<a href="(https://www.youtube.com/watch?v=jDF5iNfeIBw&ab_channel=Jeonsangha)">
+    <img width="502" alt="Tetris" src="https://github.com/user-attachments/assets/de9dd2bf-1f51-4adb-86f5-9ad14e3dc7f0" />
+</a>
+
 ---
 
 Enjoy building and playing your Arduino Tetris game!
