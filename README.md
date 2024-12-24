@@ -1,7 +1,7 @@
 # Arduino Tetris Game
 
 ## Project Overview
-This project is an Arduino-based Tetris game designed for single-player interaction, implemented in C++. Utilizing the Arduino platform, the game employs an infrared (IR) remote controller to initiate and manage gameplay. Players control the movement and orientation of Tetris blocks displayed on a dot matrix display. The game logic, written in C++, manages the falling blocks, detects completed rows, and updates the score accordingly.
+This project is an Arduino-based Tetris game designed for single-player interaction, implemented in C and C++. Utilizing the Arduino platform, the game employs an infrared (IR) remote controller to initiate and manage gameplay. Players control the movement and orientation of Tetris blocks displayed on a dot matrix display. The game logic, written in C++, manages the falling blocks, detects completed rows, and updates the score accordingly.
 
 Scoring is achieved by completing horizontal rows of blocks without any gaps. Each completed row increases the player's score, with the game's difficulty increasing subtly as the game progresses. Audio feedback is integrated using a passive buzzer, which provides immediate auditory cues for game actions such as scoring or game overs.
 
