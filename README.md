@@ -52,7 +52,3 @@ The video demonstrates the gameplay mechanics and user interaction with the Ardu
 <a href="https://www.youtube.com/watch?v=jDF5iNfeIBw&ab_channel=Jeonsangha">
     <img width="500" alt="TetrisVideo" src="https://github.com/user-attachments/assets/9fba5bb2-59d9-4d57-9eb7-4a1ddd314028" />
 </a>
-
----
-
-Enjoy building and playing your Arduino Tetris game!
