@@ -1,9 +1,17 @@
 # Arduino Tetris Game
 
 ## Project Overview
-This project is an Arduino-based Tetris game designed for single-player interaction. The game uses an IR remote controller to start and control the gameplay, where players navigate Tetris blocks on a dot matrix display. Points are scored by completing rows, with audio feedback provided through a passive buzzer.
+This project is an Arduino-based Tetris game designed for single-player interaction, implemented in C++. Utilizing the Arduino platform, the game employs an infrared (IR) remote controller to initiate and manage gameplay. Players control the movement and orientation of Tetris blocks displayed on a dot matrix display. The game logic, written in C++, manages the falling blocks, detects completed rows, and updates the score accordingly.
 
+Scoring is achieved by completing horizontal rows of blocks without any gaps. Each completed row increases the player's score, with the game's difficulty increasing subtly as the game progresses. Audio feedback is integrated using a passive buzzer, which provides immediate auditory cues for game actions such as scoring or game overs.
 
+Key technical features include:
+- **Microcontroller Programming**: The core game is programmed in C++ on the Arduino platform, taking full advantage of its hardware capabilities for handling inputs (IR remote) and driving outputs (LED display and buzzer).
+- **Hardware Interaction**: Direct manipulation of hardware components such as the MAX7219 dot matrix display module for rendering the game state and an IR receiver for remote control input.
+- **Software Architecture**: The software is structured to efficiently handle the game logic, including block movement, collision detection, line completion, and scoring.
+- **Audio Management**: Utilizing simple tone generation to provide feedback during key game events, enhancing the user experience.
+
+This project not only serves as an entertaining game but also as a practical example of embedded system application, combining software engineering with electronic design to create an interactive user experience.
 
 
 ## Features
