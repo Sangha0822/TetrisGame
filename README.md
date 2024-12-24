@@ -47,7 +47,7 @@ Here's the wiring diagram for setting up the hardware:
 <img width="643" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/823cf452-ba0c-47db-8bcf-7a1be1ae74b8" />
 
 ## Playing Tetris
-The video demonstrates the 
+The video demonstrates the gameplay mechanics and user interaction with the Arduino-based Tetris game. Watch as the Tetris pieces fall and are maneuvered using the IR remote control. The gameplay video highlights how players can control the movement and rotation of the Tetris blocks, showcasing the game's responsiveness and the visual feedback provided by the LED matrix display. It's a great way to see the game in action and understand the real-time performance of the hardware setup.
 
 <a href="https://www.youtube.com/watch?v=jDF5iNfeIBw&ab_channel=Jeonsangha">
     <img width="500" alt="TetrisVideo" src="https://github.com/user-attachments/assets/9fba5bb2-59d9-4d57-9eb7-4a1ddd314028" />
