@@ -5,7 +5,7 @@ This project is an Arduino-based Tetris game designed for single-player interact
 
 ## Hardware Components
 Here's the wiring diagram for setting up the hardware:
-![Wiring Diagram](images/Wiring Diagram.png "Wiring Diagram")
+![Wiring Diagram](/Users/sangha/Documents/PlatformIO/Projects/EE120 Custom Project/images/Wiring Diagram.png "Wiring Diagram")
 
 
 
