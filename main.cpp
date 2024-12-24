@@ -35,7 +35,6 @@ uint8_t shapeHolder[4][4]
 
 void selectRandomShape(uint8_t shape[][4], unsigned int &currentShapeCols, unsigned int &currentShapeRows) {
     int shapeIndex = rand()%7;
-    //int shapeIndex = 7;
     switch (shapeIndex) {
         case 0: //ㅁ
             shapeHolder[0][0] = 1; shapeHolder[0][1] = 1; shapeHolder[0][2] = 0; shapeHolder[0][3] = 0;
