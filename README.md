@@ -50,7 +50,7 @@ Here's the wiring diagram for setting up the hardware:
 The video demonstrates the 
 
 <a href="https://www.youtube.com/watch?v=jDF5iNfeIBw&ab_channel=Jeonsangha">
-    <img width="351" alt="TetrisVideo" src="https://github.com/user-attachments/assets/9fba5bb2-59d9-4d57-9eb7-4a1ddd314028" />
+    <img width="500" alt="TetrisVideo" src="https://github.com/user-attachments/assets/9fba5bb2-59d9-4d57-9eb7-4a1ddd314028" />
 </a>
 
 ---
