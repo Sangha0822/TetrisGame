@@ -26,33 +26,44 @@
 *.idb
 *.pdb
 
-# Build folders
+# Build folders - add specific build directories for PlatformIO
 bin/
 obj/
 build/
 debug/
 release/
+.pio/build/ 
 
-# Dependency directories
+# Dependency directories - specify any dependencies not managed by a package manager
 deps/
 vendor/
 
-# Misc
+# Misc - temporary files that should not be tracked
 *.log
 *.tmp
 *.bak
 *.swp
 *.swo
 
-# OS generated files
+# OS generated files - system-specific temporary files
 .DS_Store
 Thumbs.db
 ehthumbs.db
 
-# Editor settings
+# Editor settings - ignore settings for common code editors
 .vscode/
 .idea/
 *.sublime*
 
-# Node modules (if using Node.js in project)
+# Ignore specific settings files that may contain sensitive or personal information
+**/*.code-workspace
+
+# PlatformIO specific files
+.pio/
+.pioenvs/
+
+# Ignore Node modules if you use Node.js in your project
 node_modules/
+
+# Specific project files that shouldn't be tracked
+settings.json  
