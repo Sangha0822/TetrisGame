@@ -3,9 +3,7 @@
 ## Project Overview
 This project is an Arduino-based Tetris game designed for single-player interaction. The game uses an IR remote controller to start and control the gameplay, where players navigate Tetris blocks on a dot matrix display. Points are scored by completing rows, with audio feedback provided through a passive buzzer.
 
-## Hardware Components
-Here's the wiring diagram for setting up the hardware:
-<img width="643" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/823cf452-ba0c-47db-8bcf-7a1be1ae74b8" />
+
 
 
 ## Features
@@ -44,8 +42,12 @@ This project makes extensive use of several libraries and custom functions to co
 ## User Guide
 Turn the game on/off with the remote control's on button. Control the shapes using the left button (move left), middle button (move right), and right button (rotate counterclockwise).
 
-## Diagrams
-Include any task, wiring, and synchronization state machine diagrams to aid in understanding the system architecture and wiring setup.
+## Wiring Diagram
+Here's the wiring diagram for setting up the hardware:
+<img width="643" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/823cf452-ba0c-47db-8bcf-7a1be1ae74b8" />
+
+## Playing Tetris
+The video demonstrates the 
 
 ---
 
